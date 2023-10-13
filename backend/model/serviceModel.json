@@ -1,0 +1,20 @@
+[{
+    "id": 1,
+    "name": "account-info",
+    "description": "view personal account information - name, contact details, address etc."
+},
+{
+    "id": 2,
+    "name": "payment/transactions",
+    "description": "View all the payment/transaction history"
+},
+{
+    "id": 3,
+    "name": "booking-status",
+    "description": "Check your booking status and plan accordingly"
+},
+{
+    "id": 4,
+    "name": "create-booking",
+    "description": "new booking in just few minutes"
+}]
