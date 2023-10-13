@@ -1,0 +1,11 @@
+.serviceGrid{
+    border: 5px;
+    border-radius: 5px;
+    border-color: blue;
+}
+
+
+
+/* display: grid;
+grid-template-columns: 50rem 10rem 10rem;
+grid-gap: 1rem; */
