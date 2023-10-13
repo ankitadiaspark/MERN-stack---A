@@ -28,7 +28,7 @@ const ServiceDetail = () => {
             <div>Service Detail</div>
             <h1>{service}</h1>
             <h3>{serviceDescription}</h3>
-            {setShowBooking && <h2> Create your booking <Link to='/service-booking'>here</Link></h2>}
+            {showBooking && <h2> Create your booking <Link to='/service-booking'>here</Link></h2>}
             <h2>Go back to see the <Link to='/'>Service List</Link></h2>
             </React.Fragment>
         )
